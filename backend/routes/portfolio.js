@@ -33,10 +33,11 @@ const portfolioData = {
     {
       id: 2,
       title: "Bareface / Hideface Detection",
-      description: "AI based detection",
-      technologies: ["Vue.js", "Express", "PostgreSQL"],
-      link: "https://github.com",
-      image: "https://via.placeholder.com/300x200",
+      description:
+        "areface / Hideface Detection is an AI-powered real-time system that identifies individuals not wearing masks properly or hiding their faces, helping enhance security and awareness in public spaces.",
+      technologies: ["Python", "CSS", "JS", "YoloV8"],
+      link: "c:UsersjarreOneDrivePicturesScreenshotsScreenshot 2025-11-28 143911.png",
+      image: "/project-pic/bareface-hideface-detection.png",
     },
     {
       id: 3,
