@@ -23,7 +23,7 @@ const portfolioData = {
   projects: [
     {
       id: 1,
-      title: "Mini Social Media",
+      title: "Mini Social Media RBAS",
       description:
         "A lightweight social media platform. The application supports role-based permissions, JWT authentication, post interactions (likes, dislikes, comments), image uploads, and a responsive frontend.",
       technologies: ["Node.js", "Express", "MongoDB", "JavaScript", "CSS"],
